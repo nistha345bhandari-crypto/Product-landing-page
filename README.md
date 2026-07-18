@@ -1,0 +1,1 @@
+Glossify is a modern and fully responsive landing page for a fictional lipstick brand. It showcases products, collections, key features, benefits, customer reviews, and contact information with a clean, attractive interface. The project is built using HTML5, CSS3, Bootstrap 5, Flexbox, and CSS Grid, focusing on responsive web design and user experience.
